@@ -7,6 +7,7 @@ import java.util.Calendar;
 import java.util.Date;
 
 public class Mosque {
+    //testing commit changes
     public static void main(String[] args) {
         // Create JFrame
         JFrame frame = new JFrame("مواعيد الأذان");
