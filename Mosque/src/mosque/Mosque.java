@@ -15,6 +15,7 @@ public class Mosque {
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.setLayout(new BorderLayout()); // Use BorderLayout for proper positioning
         frame.setLocationRelativeTo(null);
+        //edit
 
         // Load images
         ImageIcon icon1 = new ImageIcon("mosque1.jpg");
